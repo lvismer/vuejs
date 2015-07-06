@@ -10,8 +10,12 @@ Do the obvious things for a Laravel app, ie. create an .env, set the key etc.
 
 * Pull in elixir, vue and vue-resource
 
-        npm install
+    ```bash
+    $ npm install
+    ```
 
 * For the browserify samples you can run the following
 
-        gulp watch
+    ```bash
+    $ gulp watch
+    ```
